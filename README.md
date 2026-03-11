@@ -1,6 +1,6 @@
 # Finance Dashboard
 
-![Health Dashboard](screens/Finance_Screen.JPG.JPG)
+![Finance Dashboard](screens/Finance_Screen.JPG)
 
 | Developer & Author | Built                |
 |--------------------|----------------------|
