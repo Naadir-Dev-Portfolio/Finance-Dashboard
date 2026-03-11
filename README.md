@@ -35,9 +35,5 @@ This project is a PyQt6-based finance dashboard skeleton designed to showcase da
    python Ui_financeDashboard.py
    ```
 
-## Screenshot
-
-![Finance Dashboard](screens/finance_dashboard.png)
-
 ---
 
