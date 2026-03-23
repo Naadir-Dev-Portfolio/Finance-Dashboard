@@ -9,7 +9,7 @@
     "financeDashboard.jpg",
     "eer.webp"
   ],
-  "desc": "Interactive finance KPIs dashboard with automated data importing, charting and portfolio tracking — built with PyQt6.",
+  "desc": "Interactive finance KPIs dashboard with automated data importing, charting and portfolio tracking, built with PyQt6.",
   "code": "https://github.com/Naadir-Dev-Portfolio/Finance-Dashboard/blob/main/Ui_finance.py",
   "details": "https://github.com/Naadir-Dev-Portfolio/Finance-Dashboard/blob/main/README.md",
   "tags": [
